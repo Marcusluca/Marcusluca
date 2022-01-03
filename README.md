@@ -2,6 +2,6 @@
 
 Olá , eu Sou o Marcus 
 
-- 🔭 Hoje trabalho com fron-tend
+- 🔭 Hoje trabalho com front-end
 - 🌱 Estou Estudando HTML,CSS e Javascript ...
 - 👯 Pronome que utilizo ele,dele.
